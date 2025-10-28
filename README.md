@@ -36,7 +36,7 @@ python3 main.py
 **Key trait:** Expands all nodes at depth N before depth N+1  
 **Optimality:** ✅ Finds shortest path
 
-![BFS](./screenshots/bfs.png)
+![BFS](https://github.com/mrfost07/Uninformed-Search-Intelligent-System/blob/main/screenshots/bfs.png?raw=true)
 
 ---
 
@@ -46,7 +46,7 @@ python3 main.py
 **Key trait:** Explores one branch fully before switching  
 **Optimality:** ❌ Not guaranteed shortest path
 
-![DFS](./screenshots/dfs.png)
+![DFS](https://github.com/mrfost07/Uninformed-Search-Intelligent-System/blob/main/screenshots/dfs.png?raw=true)
 
 ---
 
@@ -56,7 +56,7 @@ python3 main.py
 **Key trait:** Considers cumulative edge weights (like Dijkstra)  
 **Optimality:** ✅ Finds optimal-cost path
 
-![UCS](./screenshots/ucs.png)
+![UCS](https://github.com/mrfost07/Uninformed-Search-Intelligent-System/blob/main/screenshots/ucs.png?raw=true)
 
 ---
 
@@ -66,7 +66,7 @@ python3 main.py
 **Key trait:** Stops exploring beyond set depth limit  
 **Optimality:** ❌ Like DFS, but depth-bounded
 
-![DLS](./screenshots/dls.png)
+![DLS](https://github.com/mrfost07/Uninformed-Search-Intelligent-System/blob/main/screenshots/dls.png?raw=true)
 
 ---
 
@@ -76,7 +76,7 @@ python3 main.py
 **Key trait:** Combines BFS optimality with DFS memory efficiency  
 **Optimality:** ✅ Finds shortest path (like BFS)
 
-![IDS](./screenshots/ids.png)
+![IDS](https://github.com/mrfost07/Uninformed-Search-Intelligent-System/blob/main/screenshots/ids.png?raw=true)
 
 ---
 
